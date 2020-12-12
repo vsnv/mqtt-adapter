@@ -10,6 +10,6 @@ final class mqtt_adapterTests: XCTestCase {
     }
 
     static var allTests = [
-        ("testExample", testExample),
+        ("test__Example", testExample),
     ]
 }
