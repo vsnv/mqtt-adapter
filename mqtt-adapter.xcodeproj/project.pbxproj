@@ -53,6 +53,7 @@
 		36C033642585192F00C77E76 /* CocoaMQTTAdapter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CocoaMQTTAdapter.swift; sourceTree = "<group>"; };
 		36C0336625851A1C00C77E76 /* IMQTTClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IMQTTClient.swift; sourceTree = "<group>"; };
 		36C0336E2585210A00C77E76 /* CocoaMQTTAdapterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CocoaMQTTAdapterTests.swift; sourceTree = "<group>"; };
+		36C033712585264600C77E76 /* mqtt-adapter.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "mqtt-adapter.podspec"; sourceTree = "<group>"; };
 		OBJ_12 /* XCTestManifests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XCTestManifests.swift; sourceTree = "<group>"; };
 		OBJ_13 /* MQTTClientFactoryTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MQTTClientFactoryTests.swift; sourceTree = "<group>"; };
 		OBJ_17 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
@@ -111,11 +112,12 @@
 		OBJ_5 /*  */ = {
 			isa = PBXGroup;
 			children = (
+				OBJ_17 /* README.md */,
+				36C033712585264600C77E76 /* mqtt-adapter.podspec */,
 				OBJ_6 /* Package.swift */,
 				OBJ_7 /* Sources */,
 				OBJ_10 /* Tests */,
 				OBJ_14 /* Products */,
-				OBJ_17 /* README.md */,
 			);
 			name = "";
 			sourceTree = "<group>";
